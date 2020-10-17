@@ -1,2 +1,2 @@
-# Bootcamp-2020-bootcampClass1
+# Bootcamp-2020
 Basic Website for Bootcamp 
